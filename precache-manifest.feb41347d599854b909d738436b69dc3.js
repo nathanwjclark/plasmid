@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2c8333b0487bbd8bad4e7436575e6742",
+    "revision": "8f85f1b101de00bcd0338e3f39e3cf27",
     "url": "/plasmid/index.html"
   },
   {
-    "revision": "814e8ed931f151d8a32c",
-    "url": "/plasmid/static/css/main.d1b943e7.chunk.css"
+    "revision": "a7aa0db4a7fae59c2ba3",
+    "url": "/plasmid/static/css/main.50d4f8a2.chunk.css"
   },
   {
     "revision": "958ef93ade52f7299499",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/plasmid/static/js/2.8599768d.chunk.js.LICENSE"
   },
   {
-    "revision": "814e8ed931f151d8a32c",
-    "url": "/plasmid/static/js/main.6be9a1d7.chunk.js"
+    "revision": "a7aa0db4a7fae59c2ba3",
+    "url": "/plasmid/static/js/main.cd56e2f1.chunk.js"
   },
   {
     "revision": "27a81273e5bb568001c4",

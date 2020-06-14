@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/plasmid/static/css/main.d1b943e7.chunk.css",
-    "main.js": "/plasmid/static/js/main.6be9a1d7.chunk.js",
-    "main.js.map": "/plasmid/static/js/main.6be9a1d7.chunk.js.map",
+    "main.css": "/plasmid/static/css/main.50d4f8a2.chunk.css",
+    "main.js": "/plasmid/static/js/main.cd56e2f1.chunk.js",
+    "main.js.map": "/plasmid/static/js/main.cd56e2f1.chunk.js.map",
     "runtime-main.js": "/plasmid/static/js/runtime-main.c28abb7f.js",
     "runtime-main.js.map": "/plasmid/static/js/runtime-main.c28abb7f.js.map",
     "static/js/2.8599768d.chunk.js": "/plasmid/static/js/2.8599768d.chunk.js",
     "static/js/2.8599768d.chunk.js.map": "/plasmid/static/js/2.8599768d.chunk.js.map",
     "index.html": "/plasmid/index.html",
-    "precache-manifest.b03750bd9abd97b6096dde3f49d043cd.js": "/plasmid/precache-manifest.b03750bd9abd97b6096dde3f49d043cd.js",
+    "precache-manifest.feb41347d599854b909d738436b69dc3.js": "/plasmid/precache-manifest.feb41347d599854b909d738436b69dc3.js",
     "service-worker.js": "/plasmid/service-worker.js",
-    "static/css/main.d1b943e7.chunk.css.map": "/plasmid/static/css/main.d1b943e7.chunk.css.map",
+    "static/css/main.50d4f8a2.chunk.css.map": "/plasmid/static/css/main.50d4f8a2.chunk.css.map",
     "static/js/2.8599768d.chunk.js.LICENSE": "/plasmid/static/js/2.8599768d.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.c28abb7f.js",
     "static/js/2.8599768d.chunk.js",
-    "static/css/main.d1b943e7.chunk.css",
-    "static/js/main.6be9a1d7.chunk.js"
+    "static/css/main.50d4f8a2.chunk.css",
+    "static/js/main.cd56e2f1.chunk.js"
   ]
 }
