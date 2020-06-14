@@ -1,22 +1,19 @@
 {
   "files": {
-    "main.css": "/plasmid/static/css/main.d1b943e7.chunk.css",
-    "main.js": "/plasmid/static/js/main.cf55d3b1.chunk.js",
-    "main.js.map": "/plasmid/static/js/main.cf55d3b1.chunk.js.map",
+    "main.js": "/plasmid/static/js/main.9208e6f2.chunk.js",
+    "main.js.map": "/plasmid/static/js/main.9208e6f2.chunk.js.map",
     "runtime-main.js": "/plasmid/static/js/runtime-main.c28abb7f.js",
     "runtime-main.js.map": "/plasmid/static/js/runtime-main.c28abb7f.js.map",
-    "static/js/2.8599768d.chunk.js": "/plasmid/static/js/2.8599768d.chunk.js",
-    "static/js/2.8599768d.chunk.js.map": "/plasmid/static/js/2.8599768d.chunk.js.map",
+    "static/js/2.3f2e2b51.chunk.js": "/plasmid/static/js/2.3f2e2b51.chunk.js",
+    "static/js/2.3f2e2b51.chunk.js.map": "/plasmid/static/js/2.3f2e2b51.chunk.js.map",
     "index.html": "/plasmid/index.html",
-    "precache-manifest.8a372f79af4bb7afcd7d0b9c385e55e1.js": "/plasmid/precache-manifest.8a372f79af4bb7afcd7d0b9c385e55e1.js",
+    "precache-manifest.cf2b26e8378411de1efc1dadbc7b165c.js": "/plasmid/precache-manifest.cf2b26e8378411de1efc1dadbc7b165c.js",
     "service-worker.js": "/plasmid/service-worker.js",
-    "static/css/main.d1b943e7.chunk.css.map": "/plasmid/static/css/main.d1b943e7.chunk.css.map",
-    "static/js/2.8599768d.chunk.js.LICENSE": "/plasmid/static/js/2.8599768d.chunk.js.LICENSE"
+    "static/js/2.3f2e2b51.chunk.js.LICENSE": "/plasmid/static/js/2.3f2e2b51.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.c28abb7f.js",
-    "static/js/2.8599768d.chunk.js",
-    "static/css/main.d1b943e7.chunk.css",
-    "static/js/main.cf55d3b1.chunk.js"
+    "static/js/2.3f2e2b51.chunk.js",
+    "static/js/main.9208e6f2.chunk.js"
   ]
 }
