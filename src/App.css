@@ -1,38 +1,66 @@
-.App {
-  text-align: center;
+body {
+    background-color: #cdecf2;
+  text-transform: uppercase;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+@font-face {
+    font-family: 'Roboto Mono';
+    font-weight: normal;
+    font-style: normal;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+html, body, div, canvas {
+    margin: 0;
+    padding: 0;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.controls {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+button {
+  height: 3em;
+  width: 6em;
+  margin: 1em;
+  font-weight: bold;
+  font-size: 0.75em;
+  text-transform: uppercase;
+  cursor: pointer;
   color: white;
+  border: 1px solid white;
+  background-color: black;
 }
 
-.App-link {
-  color: #61dafb;
+input {
+  height: 3em;
+  width: 12.75em;
+  margin: 0.5em;
+  margin-left: 1em;
+  padding-left: 0.75em;
+  padding-right: 0.5em;
+      display: block;
+
+    font-family: Roboto Mono, Monaco, monospace;
+  font-size: 0.75em;
+  text-transform: uppercase;
+  cursor: pointer;
+  color: white;
+  border: 1px solid white;
+  background-color: black;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+button:hover {
+  color: black;
+  background-color: #00baff;
+}
+
+button:focus {
+  border: 1px solid #00baff;
+}
+
+button:active {
+  background-color: #1f1f1f;
+  color: white;
 }
