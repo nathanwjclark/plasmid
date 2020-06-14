@@ -2,6 +2,7 @@
   "name": "canvas-and-hooks",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://nathanwjclark.github.io/plasmid",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
